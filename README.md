@@ -111,7 +111,7 @@
         
                  
 4b. Go to Tickets and select the recently assigned ticket<br/>
-    (In this Scenario it is ticket 963935)
+    (In this Scenario it is ticket #963935)
 
 <p align="center">
 <img src=https://i.ibb.co/Qjhdnq9/12.jpg
